@@ -46,7 +46,7 @@ This folder contains the following results from the trained model:
 ## Dataset Info
 
 - **Sampling Frequency (fs)**: 30.72 MHz
-- **Drone Signals: Elsec, Mavic Pro, Mavic Classic, Phantom Pro
+- **Drone Signals Used**: Elsec, Mavic Pro, Mavic Classic, Phantom Pro
 
 For each signal file, spectrograms were generated using 1M samples.
 
